@@ -1,0 +1,13 @@
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\bin\Debug\netcoreapp3.1\ejer_for.exe
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\bin\Debug\netcoreapp3.1\ejer_for.deps.json
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\bin\Debug\netcoreapp3.1\ejer_for.runtimeconfig.json
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\bin\Debug\netcoreapp3.1\ejer_for.runtimeconfig.dev.json
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\bin\Debug\netcoreapp3.1\ejer_for.dll
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\bin\Debug\netcoreapp3.1\ejer_for.pdb
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\obj\Debug\netcoreapp3.1\ejer_for.csproj.AssemblyReference.cache
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\obj\Debug\netcoreapp3.1\ejer_for.AssemblyInfoInputs.cache
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\obj\Debug\netcoreapp3.1\ejer_for.AssemblyInfo.cs
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\obj\Debug\netcoreapp3.1\ejer_for.csproj.CoreCompileInputs.cache
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\obj\Debug\netcoreapp3.1\ejer_for.dll
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\obj\Debug\netcoreapp3.1\ejer_for.pdb
+C:\Users\12345\Downloads\ADSI\Carlos Nuñes\Evidencias\sicahat\ejer_for\ejer_for\obj\Debug\netcoreapp3.1\ejer_for.genruntimeconfig.cache
